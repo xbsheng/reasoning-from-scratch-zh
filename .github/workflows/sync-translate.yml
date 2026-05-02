@@ -11,9 +11,9 @@
 name: Sync & Translate
 
 on:
-  # 每天 UTC 02:00 (北京 10:00) 自动运行
+  # 每天 UTC 16:00 (北京 00:00) 自动运行
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "0 16 * * *"
 
   # 手动触发（可选 force 参数做全量翻译）
   workflow_dispatch:
