@@ -1,0 +1,12 @@
+# Ignore
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.upstream-staging/
+sync_result.json
+translate_*.log
+*.egg-info/
+.venv/
+
+# Secrets
+.env
