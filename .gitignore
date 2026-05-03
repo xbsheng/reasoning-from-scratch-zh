@@ -5,6 +5,7 @@ __pycache__/
 .upstream-staging/
 sync_result.json
 translate_*.log
+*.log
 *.egg-info/
 .venv/
 

@@ -13,20 +13,20 @@
 
 ## 章节目录
 
-| 章节 | 主题 | 主要 Notebook |
-|------|------|--------------|
-| 第 2 章 | 使用预训练 LLM 生成文本 | `ch02/ch02_main.ipynb` |
-| 第 3 章 | 评估推理模型 | `ch03/ch03_main.ipynb` |
-| 第 4 章 | 通过推理时缩放改进推理 | `ch04/ch04_main.ipynb` |
-| 第 5 章 | 通过自我精炼进行推理时缩放 | `ch05/ch05_main.ipynb` |
-| 第 6 章 | 使用强化学习训练推理模型 | `ch06/ch06_main.ipynb` |
-| 第 7 章 | 改进 GRPO 强化学习 | `ch07/ch07_main.ipynb` |
-| 第 8 章 | 蒸馏推理模型以实现高效推理 | `ch08/ch08_main.ipynb` |
-| 附录 C | Qwen3 LLM 源代码 | `appendix-C/chC_main.ipynb` |
-| 附录 D | 使用更大的 LLM | `appendix-D/chD_main.ipynb` |
-| 附录 E | 批处理与吞吐量导向的执行 | `appendix-E/chE_main.ipynb` |
-| 附录 F | LLM 评估的常见方法 | `appendix-F/chF_main.ipynb` |
-| 附录 G | 构建聊天界面 | `appendix-G/` |
+| 章节 | 主题 | 主要 Notebook | 练习解答 |
+|------|------|--------------|---------|
+| 第 2 章 | 使用预训练 LLM 生成文本 | `ch02/01_main-chapter-code/ch02_main.ipynb` | `ch02_exercise-solutions.ipynb` |
+| 第 3 章 | 评估推理模型 | `ch03/01_main-chapter-code/ch03_main.ipynb` | `ch03_exercise-solutions.ipynb` |
+| 第 4 章 | 通过推理时缩放改进推理 | `ch04/01_main-chapter-code/ch04_main.ipynb` | `ch04_exercise-solutions.ipynb` |
+| 第 5 章 | 通过自我精炼进行推理时缩放 | `ch05/01_main-chapter-code/ch05_main.ipynb` | `ch05_exercise-solutions.ipynb` |
+| 第 6 章 | 使用强化学习训练推理模型 | `ch06/01_main-chapter-code/ch06_main.ipynb` | `ch06_exercise-solutions.ipynb` |
+| 第 7 章 | 改进 GRPO 强化学习 | `ch07/01_main-chapter-code/ch07_main.ipynb` | `ch07_exercise-solutions.ipynb` |
+| 第 8 章 | 蒸馏推理模型以实现高效推理 | `ch08/01_main-chapter-code/ch08_main.ipynb` | `ch08_exercise-solutions.ipynb` |
+| 第 3 章附 | 高级解析器对比 | `ch03/03_advanced-parser/compare_with_current_parser.ipynb` | — |
+| 附录 C | Qwen3 LLM 源代码 | `chC/01_main-chapter-code/chC_main.ipynb` | — |
+| 附录 D | 使用更大的 LLM | `chD/chD_main.ipynb` | — |
+| 附录 E | 批处理与吞吐量导向的执行 | `chE/chE_main.ipynb` | — |
+| 附录 F | LLM 评估的常见方法 | `chF/01_main-chapter-code/chF_main.ipynb` | — |
 
 ## 自动同步
 
@@ -56,7 +56,7 @@
 ## 引用
 
 ```bibtex
-@book{build-llms-from-scratch-book,
+@book{build-reasoning-model-from-scratch,
   author       = {Sebastian Raschka},
   title        = {Build A Reasoning Model (From Scratch)},
   publisher    = {Manning},

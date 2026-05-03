@@ -115,18 +115,18 @@ def get_changed_notebooks(repo_dir: str, old_commit: str, new_commit: str) -> di
             continue
 
         # Check if file is new (added) or modified
-        code, exists_old = run(
+        code_old, _ = run(
             f"git cat-file -e {old_commit}:{filepath}", cwd=repo_dir
         )
-        code_new, exists_new = run(
+        code_new, _ = run(
             f"git cat-file -e {new_commit}:{filepath}", cwd=repo_dir
         )
 
-        if exists_old == 0 and exists_new == 0:
+        if code_old == 0 and code_new == 0:
             result["changed"].append(filepath)
-        elif exists_old != 0 and exists_new == 0:
+        elif code_old != 0 and code_new == 0:
             result["new"].append(filepath)
-        elif exists_old == 0 and exists_new != 0:
+        elif code_old == 0 and code_new != 0:
             result["deleted"].append(filepath)
         else:
             result["changed"].append(filepath)

@@ -22,7 +22,7 @@ from pathlib import Path
 sys.path.insert(0, os.path.dirname(__file__))
 from translate_notebook import (
     OpenAI, API_KEY, BASE_URL, MODEL,
-    translate_file, batch_translate,
+    translate_file,
 )
 
 
