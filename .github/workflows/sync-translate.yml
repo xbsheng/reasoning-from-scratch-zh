@@ -85,8 +85,11 @@ jobs:
           cat translate_log.txt
 
           # Count how many cells were actually translated
-          TRANSLATED=$(grep -c "🔄" translate_log.txt 2>/dev/null || echo "0")
-          REUSED=$(grep -c "♻️" translate_log.txt 2>/dev/null || echo "0")
+          # Use grep + wc -l to avoid emoji encoding issues with grep -c
+          TRANSLATED=$(grep "🔄" translate_log.txt 2>/dev/null | wc -l || echo "0")
+          REUSED=$(grep "♻️" translate_log.txt 2>/dev/null | wc -l || echo "0")
+          TRANSLATED=${TRANSLATED:-0}
+          REUSED=${REUSED:-0}
           echo "translated=$TRANSLATED" >> "$GITHUB_OUTPUT"
           echo "reused=$REUSED" >> "$GITHUB_OUTPUT"
 
