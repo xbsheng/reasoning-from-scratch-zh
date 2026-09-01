@@ -1,10 +1,399 @@
 🤖 Model: mimo-v2.5-pro @ https://token-plan-cn.xiaomimimo.com/v1
-📋 Processing 1 changed + 0 new notebooks
+📋 Processing 2 changed + 0 new notebooks
 
 
-📄 /home/runner/work/reasoning-from-scratch-zh/reasoning-from-scratch-zh/.upstream-staging/ch02/01_main-chapter-code/ch02_main.ipynb
-  📊 77 markdown cells: 77 reused, 0 translated
-  💾 → /home/runner/work/reasoning-from-scratch-zh/reasoning-from-scratch-zh/ch02/01_main-chapter-code/ch02_main.ipynb
+📄 /home/runner/work/reasoning-from-scratch-zh/reasoning-from-scratch-zh/.upstream-staging/ch02/01_main-chapter-code/ch02_exercise-solutions.ipynb
+  🔄 CHG [1] <table style="width:100%"> <tr> <td style="vertica...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [2] # Chapter 2: Exercise Solutions...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [3] Packages that are being used in this notebook:...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [5] &nbsp; ## Exercise 2.1: Encoding unknown words...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [7] - Unknown words are broken into smaller pieces of ...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [8] &nbsp; ## Exercise 2.2: Run code on GPU devices...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [9] - Simply delete the line `device = torch.device("c...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [16] - Note: When running the code below in PyTorch 2.1...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 NEW [18] | Tokens Generated  | Mode              | Hardware...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  📊 9 markdown cells: 0 reused, 9 translated
+  💾 → /home/runner/work/reasoning-from-scratch-zh/reasoning-from-scratch-zh/ch02/01_main-chapter-code/ch02_exercise-solutions.ipynb
+
+📄 /home/runner/work/reasoning-from-scratch-zh/reasoning-from-scratch-zh/.upstream-staging/ch06/01_main-chapter-code/ch06_main.ipynb
+  🔄 CHG [1] <table style="width:100%"> <tr> <td style="vertica...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [2] # Chapter 6: Training Reasoning Models with Reinfo...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [3] Packages that are being used in this notebook:...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [6] &nbsp; ## 6.1 Introduction to reinforcement learni...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [7] - Inference-time scaling improves reasoning by usi...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [9] - Inference-time scaling and training-time scaling...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [11] - Pre-training builds general knowledge via next-t...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [13] &nbsp; ### 6.1.1 The original reinforcement learni...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [14] - RLHF was introduced in the InstructGPT work in 2...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [16] &nbsp; ### 6.1.2 From human feedback to verifiable...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [17] - RLHF requires training a separate reward model, ...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [19] - The popularity of RLVR was driven in large part ...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [20] &nbsp; ## 6.2 Reinforcement learning with verifiab...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [22] - Now, after introducing the big picture and seein...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [23] ### 6.2.1 High-level GRPO intuition via a chef ana...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [24] - Since GRPO can look complicated at first glance,...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [26] - In most RL-for-LLMs contexts, rollout and comple...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [27] ### 6.2.2 The high-level GRPO procedure...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [28] - The technical roadmap for implementing GRPO in t...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [30] &nbsp; ## 6.3 Loading a pre-trained model...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [31] - The code in this chapter is identical to the one...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [32] <img src="https://sebastianraschka.com/images/reas...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [35] &nbsp; ## 6.4 Loading a MATH training subset...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [36] - We use a non-overlapping training subset derived...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [38] - The following `load_math_train` function is simi...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [42] - Note that we only need the `"answer"` and `"prob...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [43] &nbsp; ## 6.5 Sampling rollouts...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [45] - Rollout is RL jargon for generated response...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [47] - We need `@torch.no_grad` as we don't want to bui...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [49] - There is nothing new here - The code above is si...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [52] - In practice, we would call sample_response multi...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [54] &nbsp; ## 6.6 Calculating rewards...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [56] - The rewards are simply correctness rewards, simi...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [59] - Note: The DeepSeek-R1 team tried to use process ...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [60] &nbsp; ## 6.7 Preparing learning signals from roll...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [61] - The "GR" (group relative) in GRPO refers to the ...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [63] - The formula is quite simple:  $$\text{advantages...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [64] - Here, $r_i$ denotes the reward of the $i$-th rol...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [67] - Note that if all rewards in a group are identica...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [68] &nbsp; ## 6.8 Scoring rollouts with sequence log-p...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [69] <img src="https://sebastianraschka.com/images/reas...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [70] - In the previous chapter, we implemented an `avg_...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [73] - However, GRPO uses sequence-level log-probabilit...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [74] - We can convert it into a sequence-level log-prob...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [76] - These sequence-level logprobs scale linearly wit...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [77] - So, as mentioned above, we can replace `torch.me...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [79] - Note that we don't use `.item()` in `torch.sum(n...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [80] - Below, we will rewrite the function using torch....
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [83] - The trend here is that shorter and more concise ...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [84] &nbsp; ## 6.9 From advantages to policy updates vi...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [88] - We need the `.detach()` because we want to treat...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [89] - In mathematical notation, we can write the polic...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [90] &nbsp; ## 6.10 Putting everything together in a GR...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [93] - The stages in the code comments map to the stage...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [95] &nbsp; ## 6.11 Implementing the GRPO training loop...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [97] - We skip batching due to the already expensive re...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [100] - Everything except for stage 4, the GRPO loss cal...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [101] - Please note that if you run the code in PyTorch ...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [103] - If you have memory-related issues when running t...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [104] - Note that either way, the code will likely run v...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [105] - Note that this code does not support batched tra...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [106] &nbsp; ## 6.12 Loading and evaluating saved model ...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [107] <img src="https://sebastianraschka.com/images/reas...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [108] - The saved checkpoints can be loaded using the mo...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [110] |      | Method                                 | ...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [111] - Based on the table above, we see that after only...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 CHG [112] &nbsp; ## 6.13 Summary...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  🔄 NEW [113] - No code in this section...
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 1/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 2/3
+  ⚠ Error code: 401 - {'error': {'message': 'Invalid API Key', 'param': 'Please provide valid API Key', 'code': '401', 'type': 'invalid_key'}}, retry 3/3
+  ✗ Failed, keeping original
+  📊 86 markdown cells: 18 reused, 68 translated
+  💾 → /home/runner/work/reasoning-from-scratch-zh/reasoning-from-scratch-zh/ch06/01_main-chapter-code/ch06_main.ipynb
 
 ==================================================
-✅ Translated: 1/1
+✅ Translated: 2/2
