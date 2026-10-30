@@ -1,3 +1,9 @@
-📡 Latest upstream: 0acaa28ec7e2
+📡 Latest upstream: 2e5e94d47af4
 📋 Changes detected:
+  M ch02/01_main-chapter-code/ch02_exercise-solutions.ipynb
   M ch02/01_main-chapter-code/ch02_main.ipynb
+  M ch03/01_main-chapter-code/ch03_exercise-solutions.ipynb
+  M ch03/01_main-chapter-code/ch03_main.ipynb
+  M ch04/01_main-chapter-code/ch04_main.ipynb
+  M ch05/01_main-chapter-code/ch05_main.ipynb
+  M ch06/01_main-chapter-code/ch06_main.ipynb
